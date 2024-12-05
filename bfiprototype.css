@@ -1,0 +1,253 @@
+:root {
+    --gap-size: 0px; /* Easily adjustable spacing */
+    --body-width: 80%; /* Adjustable body width as a percentage of the viewport */
+    --center-width: 70%; /* Adjustable width for main_section_center (up to 80% of the body) */
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    width: var(--body-width); /* Width of the body as percentage of viewport */
+    margin: auto; /* Centers the container */
+    display: flex;
+    flex-direction: column;
+    gap: var(--gap-size);
+  }
+  
+  .box {
+    width: 100%; /* Full width of the container */
+    border: 2px solid black;
+    text-align: center;
+    padding: var(--gap-size);
+    box-sizing: border-box; /* Includes padding and border in width */
+    font-size: 16px;
+  }
+  .box-1 {
+    display: flex;
+    gap: var(--gap-size);
+    justify-content: space-between;
+    height: 12vh;
+  }
+  #banner {
+    background-image: url('murdersrow-ai3.jpg'); /* Set the background image */
+    background-size: cover; /* Ensure the image covers the entire div */
+    background-position: center; /* Center the image within the div */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    width: 100%; /* Make the div span the full width */
+    text-align: center;
+    border:none;
+}
+#siteName {
+    margin-top: 10px;
+    margin-left: 5%;
+    font-size: 40px;
+    color: white; /* Set the text color to white */
+    font-family: 'Courier New', Courier, monospace
+}
+p {
+  margin-top: 60px;
+  margin-right: 10px;
+  font-weight: bold;
+    color: white; /* Set the text color to white */
+    font-family: 'Courier New', Courier, monospace
+}
+
+  .box-2 {
+    color:grey;
+    display: flex;
+    gap: var(--gap-size);
+    justify-content: space-between;
+    height: 30px;
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    background-color: rgb(59, 59, 97);
+  }
+  
+  .box-3 {
+    border:none;
+    height: 70vh;
+    display: flex;
+    gap: var(--gap-size);
+    justify-content: space-between;
+  }
+  
+  .box-3 .sub-box {
+    border:none;
+    display: flex;
+    flex-direction: column;
+    gap: var(--gap-size);
+    border: 2px solid black;
+    background-color: #d9d9d9;
+    padding: var(--gap-size);
+    box-sizing: border-box; /* Includes padding and border in width */
+  }
+  #main_section_left {
+    border:1px solid black;
+  }
+  
+  #main_section_center {
+    flex: 0 0 var(--center-width); /* Fixed width for the center */
+  }
+
+  #main_section_center {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    height: 100%; /* Fill the vertical space of the parent */
+  }
+  
+  #main_section_center .nested-sub-box {
+    flex: 0 0 auto; /* Prevent flexbox from resizing unless specified */
+    box-sizing: border-box; /* Includes padding and border in the height */
+  }
+  
+  /* Adjust heights as percentages of the parent container */
+  #mainSection__title {
+    height: 5%; /* 10% of main_section_center's height */
+    border: none;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  #mainSection__dateControls {
+    height:7%; /* 20% of main_section_center's height */
+  }
+  
+  #mainSection__timeline {
+    height: 15%; /* 40% of main_section_center's height */
+  }
+  
+  #mainSection__unitStatusTable {
+    height: 75%; /* 30% of main_section_center's height */
+  }
+  
+  
+  #main_section_left,
+  #main_section_right {
+    flex: 1; /* Share remaining space equally */
+  }
+  #mainSection__ad1,
+  #mainSection__ad2 {
+    display: none;
+  }
+ /*PASTE DATE CONTROLS CSS HERE*/
+ 
+
+#date-range {
+  min-width: 150px;
+  text-align: center;
+  font-weight: bold;
+}
+
+  
+  .nested-sub-box {
+    flex: 1; /* Adjust to fill parent sub-box */
+    border: none;
+    background-color: #f0f0f0;
+    padding: var(--gap-size);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  
+  .box-4 {
+    display: none;
+    gap: var(--gap-size);
+    justify-content: space-between;
+  }
+  
+  .box-4 .sub-box {
+    flex: 1; /* Equal widths for bottom section sub-boxes */
+    border: none;
+    background-color: #c9c9c9;
+    padding: var(--gap-size);
+    box-sizing: border-box;
+  }
+
+  /* .unit-status-table {
+    width: 100%;
+    table-layout: fixed; 
+    border-collapse: collapse;
+    font-family: "Courier New", monospace;
+    font-size: xx-small;
+} */
+.unit-status-table {
+  width: 100%;
+  table-layout: fixed; /* Ensure columns are evenly spaced */
+  border-collapse: collapse;
+  font-family: "Courier New", monospace;
+  font-size: xx-small;
+}
+
+/* .unit-status-table th, .unit-status-table td {
+    border: 1px solid #ccc;
+    padding: 4px; 
+    text-align: center;
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+} */
+.unit-status-table th {
+  color: lightgrey;
+  position: sticky; /* Fix the header row */
+  top: 0; /* Stick to the top of the scrolling container */
+  z-index: 2; /* Ensure the header stays above other rows */
+  background-color:rgb(59, 59, 97); /* Set a background color for visibility */
+  border: 1px solid #a5a4a4; /* Keep consistent border styling */
+  padding: 4px;
+  text-align: center;
+  white-space: nowrap; /* Prevent wrapping */
+}
+
+.unit-status-table td {
+  border: 1px solid #ccc;
+  padding: 2px;
+  text-align: left;
+  white-space: nowrap; /* Prevent wrapping */
+  overflow: hidden;
+  text-overflow: ellipsis; /* Ellipsis for truncated content */
+}
+.unit-status-table .id-column {
+    width: 40px; /* Ship ID column */
+}
+
+.unit-status-table .name-column {
+    width: 100px; /* Ship name column */
+}
+
+.unit-status-table .month-column {
+    width: auto; /* Adjust other columns to fit */
+}
+
+/* Background colors for status codes */
+.color-1 { background-color: lightblue; }
+.color-2 { background-color: rgb(145, 135, 171); }
+.color-3 { background-color: rgb(100, 90, 157); }
+.color-4 { background-color: #2f0883; }
+.color-5 { background-color: rgb(198, 198, 25); }
+.color-6 { background-color: rgb(255, 119, 0); }
+.color-7 { background-color: rgb(174, 2, 2); }
+.color-8 { background-color: rgb(143, 140, 140); }
+.color-9 { background-color: rgb(163, 160, 160); }
+
+/* #mainSection__unitStatusTable {
+    max-width: 100%; 
+    height: 400px; 
+    overflow: auto; 
+    display: block;
+} */
+#mainSection__unitStatusTable {
+  max-width: 100%;
+  height: 50vh; /* Adjust this to fit the desired scrollable area */
+  overflow: auto; /* Enable scrolling */
+  display: block; /* Ensure proper layout */
+}
+
+
+
+
+

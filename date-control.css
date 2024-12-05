@@ -1,0 +1,31 @@
+#controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px; /* Reduce the bottom margin */
+    gap: 5px; /* Reduce spacing between buttons */
+    height: auto; /* Ensure no extra height is added */
+}
+
+#controls button {
+    padding: 2px 5px; /* Reduce padding inside buttons */
+    font-size: 12px; /* Reduce font size */
+    line-height: 1; /* Compact line height */
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: #f9f9f9;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#controls button:hover {
+    background-color: #e0e0e0;
+}
+
+#date-range {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px; /* Reduce font size of the date range */
+    font-weight: bold; /* Optional: adjust font weight */
+    text-align: center;
+    min-width: 100px; /* Optional: adjust to make it more compact */
+}

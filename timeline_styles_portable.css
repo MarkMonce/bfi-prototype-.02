@@ -1,0 +1,82 @@
+/* #timelineContainer styles */
+#timelineContainer {
+    position: relative;
+    width: 100%; /* Adapts to parent width */
+    height: auto; /* Adjusts height based on content */
+    overflow: hidden;
+    display: flex;
+    flex-direction: column; /* Vertical alignment */
+    gap: 10px;
+    align-items: center;
+}
+
+/* Timeline line */
+#timelineContainer .line {
+    border: 1px solid rgb(131, 126, 221);
+    position: relative;
+    width: 95%;
+    height: 4px;
+    background-color: rgb(131, 126, 221);
+    margin: 10px 0;
+}
+#timelineContainer {
+    position: relative;
+    width: 100%;
+    height: 100%; /* Take the full height of the parent */
+    overflow-y: auto; /* Allow vertical scrolling if content exceeds height */
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+    padding: 0px; /* Optional padding for spacing */
+    padding-top: 10px;
+    box-sizing: border-box; /* Ensure padding doesn't add to width/height */
+    margin-left: 140px;
+    margin-right: 0px;
+}
+
+/* Event circles */
+#timelineContainer .circle {
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: rgb(74, 74, 179);
+    top: -8px;
+    transform: translateX(-50%);
+    z-index: 2;
+}
+
+/* Table styling */
+#timelineContainer table {
+    width: 95%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    /* EXTERIOR BORDER: Adjust table border thickness, style, and color here */
+    border: none; /* Change thickness (e.g., 2px), style (e.g., dashed), or color (e.g., red) */
+}
+
+/* Interior borders (cell borders) */
+#timelineContainer table td {
+    /* INTERIOR BORDER: Adjust cell border thickness, style, and color here */
+    border: none; /* Change thickness (e.g., 1px), style (e.g., dotted), or color (e.g., blue) */
+    width: calc(100% / 12);
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+
+    /* FONT STYLE: Adjust the font-family and text size here */
+    font-family: 'Courier New', Courier, monospace; /* Change the font-family */
+    font-size: xx-small; /* Options: xx-small, small, medium, large, etc. */
+    color: black; /* Adjust font color */
+}
+
+/* Hover effect for table cells (optional) */
+#timelineContainer table td:hover {
+    background-color: rgba(0, 0, 0, 0.1); /* Slight highlight when hovered */
+}
+
+/* Additional table styling for header (if added later) */
+#timelineContainer table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+}

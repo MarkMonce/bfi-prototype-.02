@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>1-1-3-2-1 Layout with Side-by-Side Sub-boxes</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      gap: 10px; /* Adds spacing between boxes */
+      padding: 10px;
+    }
+    .box {
+      border: 2px solid black;
+      text-align: center;
+      padding: 20px;
+      font-size: 16px;
+    }
+    .box-1 {
+      background-color: #f9f9f9;
+    }
+    .box-2 {
+      background-color: #e9e9e9;
+      gap: 0;
+      padding: 0;
+      height: 2.5vh;
+    }
+    .box-3 {
+      display: flex;
+      gap: 10px;
+      justify-content: space-between;
+    }
+    .box-3 .sub-box {
+      flex: 1;
+      border: 2px solid black;
+      background-color: #d9d9d9;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px; /* Space between nested sub-boxes */
+      height: 50vh;
+    }
+    .box-3 .nested-sub-box {
+      flex: 1;
+      border: 2px dashed black;
+      background-color: #f0f0f0;
+      padding: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .box-3 .sub-box:last-child {
+      flex-direction: row; /* Set direction to row for side-by-side alignment */
+      gap: 10px; /* Space between Box 3C-1 and Box 3C-2 */
+    }
+    .box-3 .sub-box:last-child .nested-sub-box {
+      flex: 1; /* Ensure both nested boxes take equal space */
+    }
+    .box-4 {
+      display: flex;
+      gap: 10px;
+      justify-content: space-between;
+    }
+    .box-4 .sub-box {
+      flex: 1;
+      border: 2px solid black;
+      background-color: #c9c9c9;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="box box-1">Box 1</div>
+    <div class="box box-2">Box 2</div>
+    <div class="box box-3">
+      <div class="sub-box">
+        <div class="nested-sub-box">Box 3A-1</div>
+        <div class="nested-sub-box">Box 3A-2</div>
+      </div>
+      <div class="sub-box">
+        <div class="nested-sub-box">Box 3B-1</div>
+        <div class="nested-sub-box">Box 3B-2</div>
+      </div>
+      <div class="sub-box">
+        <div class="nested-sub-box" id="3c1">Box 3C-1</div>
+        <div class="nested-sub-box" id="3c2">Box 3C-2</div>
+      </div>
+    </div>
+    <div class="box box-4">
+      <div class="sub-box">Box 4A</div>
+      <div class="sub-box">Box 4B</div>
+    </div>
+    <div class="box box-1">Box 5</div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,5851 @@
+[
+  {
+    "ID": "CV-1",
+    "Name": "USS Langley",
+    "MonthlyStatus": {
+      "Nov-41": {
+        "code": 4,
+        "details": "Converted to Seaplane Tender (AV-3): 1940"
+      },
+      "Dec-41": {
+        "code": 4,
+        "details": "Converted to Seaplane Tender (AV-3): 1940"
+      },
+      "Jan-42": {
+        "code": 4,
+        "details": "Converted to Seaplane Tender (AV-3): 1940"
+      },
+      "Feb-42": {
+        "code": 7,
+        "details": "Sunk by Air Attack in Java Sea"
+      },
+      "Mar-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 8,
+        "details": ""
+      },
+      "May-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 8,
+        "details": ""
+      },
+      "May-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 8,
+        "details": ""
+      },
+      "May-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 8,
+        "details": ""
+      },
+      "May-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 8,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-2",
+    "Name": "USS Lexington",
+    "MonthlyStatus": {
+      "Nov-41": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-41": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 4,
+        "details": ""
+      },
+      "May-42": {
+        "code": 7,
+        "details": "Battle of Coral Sea; Sunk by Air Attack"
+      },
+      "undefined-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 8,
+        "details": ""
+      },
+      "May-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 8,
+        "details": ""
+      },
+      "May-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 8,
+        "details": ""
+      },
+      "May-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 8,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-3",
+    "Name": "USS Saratoga",
+    "MonthlyStatus": {
+      "Nov-41": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-41": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 5,
+        "details": "Torpedoed Jan-11"
+      },
+      "Feb-42": {
+        "code": 6,
+        "details": "Bremerton Shipyard"
+      },
+      "Mar-42": {
+        "code": 6,
+        "details": "Bremerton Shipyard"
+      },
+      "Apr-42": {
+        "code": 6,
+        "details": "Bremerton Shipyard"
+      },
+      "May-42": {
+        "code": 6,
+        "details": "Bremerton Shipyard"
+      },
+      "Jun-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 5,
+        "details": "Eastern Solomons\\nTorpedoed Aug 11"
+      },
+      "Sep-42": {
+        "code": 6,
+        "details": "Pearl Harbor"
+      },
+      "Oct-42": {
+        "code": 6,
+        "details": "Pearl Harbor"
+      },
+      "Nov-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 4,
+        "details": ""
+      },
+      "May-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 6,
+        "details": "San Francisco & Pearl Harbor"
+      },
+      "Jan-44": {
+        "code": 6,
+        "details": "San Francisco & Pearl Harbor"
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 6,
+        "details": "Refit in Bremerton WA"
+      },
+      "Jul-44": {
+        "code": 6,
+        "details": "Refit in Bremerton WA"
+      },
+      "Aug-44": {
+        "code": 6,
+        "details": "Refit in Bremerton WA"
+      },
+      "Sep-44": {
+        "code": 6,
+        "details": "NAS Alameda"
+      },
+      "Oct-44": {
+        "code": 6,
+        "details": "Collided with destroyer USS Clark"
+      },
+      "Nov-44": {
+        "code": 6,
+        "details": "Pearl Harbor"
+      },
+      "Dec-44": {
+        "code": 6,
+        "details": "Pearl Harbor"
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": "Arrived Ulithi End of Month"
+      },
+      "Feb-45": {
+        "code": 5,
+        "details": "Severe Damage from Air Attack"
+      },
+      "Mar-45": {
+        "code": 6,
+        "details": "Arrived Bremerton WA; Removed from Active Service; Refitted as training carrier for West Coast training"
+      },
+      "Apr-45": {
+        "code": 6,
+        "details": "Arrived Bremerton WA; Removed from Active Service; Refitted as training carrier for West Coast training"
+      },
+      "May-45": {
+        "code": 6,
+        "details": "Arrived Bremerton WA; Removed from Active Service; Refitted as training carrier for West Coast training"
+      },
+      "Jun-45": {
+        "code": 6,
+        "details": "Arrived Bremerton WA; Removed from Active Service; Refitted as training carrier for West Coast training"
+      },
+      "Jul-45": {
+        "code": 6,
+        "details": "Arrived Bremerton WA; Removed from Active Service; Refitted as training carrier for West Coast training"
+      },
+      "Aug-45": {
+        "code": 6,
+        "details": "Arrived Bremerton WA; Removed from Active Service; Refitted as training carrier for West Coast training"
+      },
+      "Sep-45": {
+        "code": 6,
+        "details": "Arrived Bremerton WA; Removed from Active Service; Refitted as training carrier for West Coast training"
+      },
+      "Oct-45": {
+        "code": 6,
+        "details": "Arrived Bremerton WA; Removed from Active Service; Refitted as training carrier for West Coast training"
+      },
+      "Nov-45": {
+        "code": 6,
+        "details": "Arrived Bremerton WA; Removed from Active Service; Refitted as training carrier for West Coast training"
+      },
+      "Dec-45": {
+        "code": 6,
+        "details": "Arrived Bremerton WA; Removed from Active Service; Refitted as training carrier for West Coast training"
+      },
+      "Jan-46": {
+        "code": 6,
+        "details": "Arrived Bremerton WA; Removed from Active Service; Refitted as training carrier for West Coast training"
+      }
+    }
+  },
+  {
+    "ID": "CV-4",
+    "Name": "USS Ranger",
+    "MonthlyStatus": {
+      "Dec-41": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Jan-42": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Feb-42": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Mar-42": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Apr-42": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "May-42": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Jun-42": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Jul-42": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Aug-42": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Sep-42": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Oct-42": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Nov-42": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Dec-42": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Jan-43": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Feb-43": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Mar-43": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Apr-43": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "May-43": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Jun-43": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Jul-43": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Aug-43": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Sep-43": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Oct-43": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Nov-43": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Dec-43": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Jan-44": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Feb-44": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Mar-44": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Apr-44": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "May-44": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Jun-44": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Jul-44": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Aug-44": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Sep-44": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Oct-44": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Nov-44": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Dec-44": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Jan-45": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Feb-45": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Mar-45": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Apr-45": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "May-45": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Jun-45": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Jul-45": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Aug-45": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Sep-45": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Oct-45": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Nov-45": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Dec-45": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Jan-46": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      },
+      "Nov-41": {
+        "code": 8,
+        "details": "Served in Atlantic Theater until late 1943; Converted to Training Carrier; Never saw service in Pacific Theater"
+      }
+    }
+  },
+  {
+    "ID": "CV-5",
+    "Name": "USS Yorktown",
+    "MonthlyStatus": {
+      "Dec-41": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 4,
+        "details": ""
+      },
+      "May-42": {
+        "code": 5,
+        "details": "Damaged; Battle of Coral Sea"
+      },
+      "Jun-42": {
+        "code": 7,
+        "details": "Battle of Midway\\nDamaged by Air Attack\\nSunk by Submarine Torpedo"
+      },
+      "Jul-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-41": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 8,
+        "details": ""
+      },
+      "May-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 8,
+        "details": ""
+      },
+      "May-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 8,
+        "details": ""
+      },
+      "May-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 8,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-6",
+    "Name": "USS Enterprise",
+    "MonthlyStatus": {
+      "Dec-41": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 4,
+        "details": ""
+      },
+      "May-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 5,
+        "details": "Battle of Santa Cruz Islands"
+      },
+      "Nov-42": {
+        "code": 6,
+        "details": "Emergency Repairs in New Caledonia"
+      },
+      "Dec-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-41": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 4,
+        "details": ""
+      },
+      "May-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 6,
+        "details": "Repairs and Refit in Puget Sound"
+      },
+      "Aug-43": {
+        "code": 6,
+        "details": "Repairs and Refit in Puget Sound"
+      },
+      "Sep-43": {
+        "code": 6,
+        "details": "Repairs and Refit in Puget Sound"
+      },
+      "Oct-43": {
+        "code": 6,
+        "details": "Repairs and Refit in Puget Sound"
+      },
+      "Nov-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 5,
+        "details": "Damaged by Kamakazi Attack"
+      },
+      "Jun-45": {
+        "code": 6,
+        "details": "Puget Sound for Repair"
+      },
+      "Jul-45": {
+        "code": 6,
+        "details": "Puget Sound for Repair"
+      },
+      "Aug-45": {
+        "code": 6,
+        "details": "Puget Sound for Repair"
+      },
+      "Sep-45": {
+        "code": 6,
+        "details": "Puget Sound for Repair"
+      },
+      "Oct-45": {
+        "code": 6,
+        "details": "Puget Sound for Repair"
+      },
+      "Nov-45": {
+        "code": 6,
+        "details": "Puget Sound for Repair"
+      },
+      "Dec-45": {
+        "code": 6,
+        "details": "Puget Sound for Repair"
+      },
+      "Jan-46": {
+        "code": 6,
+        "details": "Puget Sound for Repair"
+      }
+    }
+  },
+  {
+    "ID": "CV-7",
+    "Name": "USS Wasp",
+    "MonthlyStatus": {
+      "Dec-41": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 4,
+        "details": ""
+      },
+      "May-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 7,
+        "details": "Sunk by Submarine Torpedo"
+      },
+      "Oct-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-41": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 8,
+        "details": ""
+      },
+      "May-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 8,
+        "details": ""
+      },
+      "May-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 8,
+        "details": ""
+      },
+      "May-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 8,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-8",
+    "Name": "USS Hornet",
+    "MonthlyStatus": {
+      "Nov-41": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-41": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 4,
+        "details": ""
+      },
+      "May-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 7,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Nov-42": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Dec-42": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Jan-43": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Feb-43": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Mar-43": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Apr-43": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "May-43": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Jun-43": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Jul-43": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Aug-43": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Sep-43": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Oct-43": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Nov-43": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Dec-43": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Jan-44": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Feb-44": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Mar-44": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Apr-44": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "May-44": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Jun-44": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Jul-44": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Aug-44": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Sep-44": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Oct-44": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Nov-44": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Dec-44": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Jan-45": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Feb-45": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Mar-45": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Apr-45": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "May-45": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Jun-45": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Jul-45": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Aug-45": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Sep-45": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Oct-45": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Nov-45": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Dec-45": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      },
+      "Jan-46": {
+        "code": 8,
+        "details": "Sunk by Air Attack; Battle of Santa Cruz"
+      }
+    }
+  },
+  {
+    "ID": "CV-9",
+    "Name": "USS Essex",
+    "MonthlyStatus": {
+      "Nov-41": {
+        "code": 2,
+        "details": "Laid down April 1941"
+      },
+      "Dec-41": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 2,
+        "details": ""
+      },
+      "May-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 3,
+        "details": "Commissioned"
+      },
+      "Jan-43": {
+        "code": 3,
+        "details": "Training and Transit to Pearl Harbor"
+      },
+      "Feb-43": {
+        "code": 3,
+        "details": "Training and Transit to Pearl Harbor"
+      },
+      "Mar-43": {
+        "code": 3,
+        "details": "Training and Transit to Pearl Harbor"
+      },
+      "Apr-43": {
+        "code": 3,
+        "details": "Training and Transit to Pearl Harbor"
+      },
+      "May-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-10",
+    "Name": "USS Yorktown",
+    "MonthlyStatus": {
+      "Nov-41": {
+        "code": 2,
+        "details": "Ordered; June 1940; Laid down as USS Bonhomme Richard Dec 1941"
+      },
+      "Dec-41": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 2,
+        "details": ""
+      },
+      "May-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": "Renamed USS Yorktown"
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 3,
+        "details": "Commissioned"
+      },
+      "May-43": {
+        "code": 3,
+        "details": "Shakedown and Training; Transit to Pearl Harbor"
+      },
+      "Jun-43": {
+        "code": 3,
+        "details": "Shakedown and Training; Transit to Pearl Harbor"
+      },
+      "Jul-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-11",
+    "Name": "USS Intrepid",
+    "MonthlyStatus": {
+      "Nov-41": {
+        "code": 2,
+        "details": "Ordered Jun-40; Laid down Dec-41"
+      },
+      "Dec-41": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 2,
+        "details": ""
+      },
+      "May-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 3,
+        "details": "Commissioned"
+      },
+      "Sep-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-12",
+    "Name": "USS Hornet",
+    "MonthlyStatus": {
+      "Aug-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-13",
+    "Name": "USS Franklin",
+    "MonthlyStatus": {
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 3,
+        "details": ""
+      },
+      "May-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-14",
+    "Name": "USS Ticonderoga",
+    "MonthlyStatus": {
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 2,
+        "details": ""
+      },
+      "May-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-15",
+    "Name": "USS Randolph",
+    "MonthlyStatus": {
+      "May-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 2,
+        "details": ""
+      },
+      "May-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 3,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-16",
+    "Name": "USS Lexington",
+    "MonthlyStatus": {
+      "Nov-41": {
+        "code": 2,
+        "details": "Laid down as USS Cabot, Jul-41"
+      },
+      "Dec-41": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 2,
+        "details": ""
+      },
+      "May-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 3,
+        "details": ""
+      },
+      "May-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-17",
+    "Name": "USS Bunker Hill",
+    "MonthlyStatus": {
+      "Nov-41": {
+        "code": 2,
+        "details": "Laid down Sep-41"
+      },
+      "Dec-41": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 2,
+        "details": ""
+      },
+      "May-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-18",
+    "Name": "USS Wasp",
+    "MonthlyStatus": {
+      "Mar-42": {
+        "code": 2,
+        "details": "Laid down as USS Oriskany"
+      },
+      "Apr-42": {
+        "code": 2,
+        "details": ""
+      },
+      "May-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-19",
+    "Name": "USS Hancock",
+    "MonthlyStatus": {
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 3,
+        "details": ""
+      },
+      "May-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-20",
+    "Name": "USS Bennington",
+    "MonthlyStatus": {
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 2,
+        "details": ""
+      },
+      "May-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 3,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-21",
+    "Name": "USS Boxer",
+    "MonthlyStatus": {
+      "Sep-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 2,
+        "details": ""
+      },
+      "May-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 3,
+        "details": ""
+      },
+      "May-45": {
+        "code": 3,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 3,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 3,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CVL-22",
+    "Name": "USS Independence",
+    "MonthlyStatus": {
+      "Nov-41": {
+        "code": 2,
+        "details": "Laid down as USS New Amsterdam; May-41"
+      },
+      "Dec-41": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 2,
+        "details": "Reclassified as CVL; Renamed USS Independence"
+      },
+      "Feb-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 2,
+        "details": ""
+      },
+      "May-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 3,
+        "details": ""
+      },
+      "May-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CVL-23",
+    "Name": "USS Princeton",
+    "MonthlyStatus": {
+      "Nov-41": {
+        "code": 2,
+        "details": "Laid down as USS Tallahassee"
+      },
+      "Dec-41": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 2,
+        "details": ""
+      },
+      "May-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 3,
+        "details": ""
+      },
+      "May-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 7,
+        "details": "Sunk by air attack; Battle of Leyte Gulf"
+      },
+      "Jan-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 8,
+        "details": ""
+      },
+      "May-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 8,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 8,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CVL-24",
+    "Name": "USS Belleau Wood",
+    "MonthlyStatus": {
+      "Nov-41": {
+        "code": 2,
+        "details": "Laid down as USS New Haven Jun-41"
+      },
+      "Dec-41": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-42": {
+        "code": 2,
+        "details": "Reclassified as CVL-24 USS Belleau Wood"
+      },
+      "Mar-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 2,
+        "details": ""
+      },
+      "May-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CVL-25",
+    "Name": "USS Cowpens",
+    "MonthlyStatus": {
+      "Nov-41": {
+        "code": 2,
+        "details": "Laid down as USS Huntington Nov 41"
+      },
+      "Dec-41": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 2,
+        "details": ""
+      },
+      "May-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CVL-26",
+    "Name": "USS Monterey",
+    "MonthlyStatus": {
+      "Nov-41": {
+        "code": 2,
+        "details": "Laid down as USS Dayton Dec 41"
+      },
+      "Dec-41": {
+        "code": 2,
+        "details": "Laid down as USS Dayton Dec 41"
+      },
+      "Jan-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-42": {
+        "code": 2,
+        "details": ""
+      },
+      "May-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CVL-27",
+    "Name": "USS Langley",
+    "MonthlyStatus": {
+      "Apr-42": {
+        "code": 2,
+        "details": "Laid down as USS Crown Point"
+      },
+      "May-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": "Renamed USS Langley"
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CVL-28",
+    "Name": "USS Cabot",
+    "MonthlyStatus": {
+      "Mar-42": {
+        "code": 2,
+        "details": "Laid down as USS Wilmington"
+      },
+      "Apr-42": {
+        "code": 2,
+        "details": ""
+      },
+      "May-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-42": {
+        "code": 2,
+        "details": "Reclassified and renamed USS Cabot"
+      },
+      "Jul-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 3,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CVL-29",
+    "Name": "USS Bataan",
+    "MonthlyStatus": {
+      "Aug-42": {
+        "code": 2,
+        "details": "Laid down as USS Buffalo"
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CVL-30",
+    "Name": "USS San Jacinto",
+    "MonthlyStatus": {
+      "Aug-42": {
+        "code": 2,
+        "details": "Laid down as USS Reprisal"
+      },
+      "Sep-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Oct-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Nov-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Dec-42": {
+        "code": 2,
+        "details": ""
+      },
+      "Jan-43": {
+        "code": 2,
+        "details": "Renamed USS San Jacinto"
+      },
+      "Feb-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Mar-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Apr-43": {
+        "code": 2,
+        "details": ""
+      },
+      "May-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jun-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Jul-43": {
+        "code": 2,
+        "details": ""
+      },
+      "Aug-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Sep-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Oct-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Nov-43": {
+        "code": 3,
+        "details": ""
+      },
+      "Dec-43": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-44": {
+        "code": 4,
+        "details": ""
+      },
+      "May-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-44": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Feb-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Mar-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Apr-45": {
+        "code": 4,
+        "details": ""
+      },
+      "May-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jun-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jul-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Aug-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Sep-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Oct-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Nov-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Dec-45": {
+        "code": 4,
+        "details": ""
+      },
+      "Jan-46": {
+        "code": 4,
+        "details": ""
+      }
+    }
+  },
+  {
+    "ID": "CV-31",
+    "Name": "USS Bennington",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CV-33",
+    "Name": "USS Kearsarge",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CV-34",
+    "Name": "USS Oriskany",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CV-35",
+    "Name": "USS Reprisal",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CV-36",
+    "Name": "USS Antietam",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CV-37",
+    "Name": "USS Princeton",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CV-38",
+    "Name": "USS Shangri-La",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CV-39",
+    "Name": "USS Lake Champlain",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CV-40",
+    "Name": "USS Tarawa",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CVB-41",
+    "Name": "USS Midway",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CVB-42",
+    "Name": "USS Franklin D Roosevelt",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CVB-44",
+    "Name": "Unnamed",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CV-45",
+    "Name": "USS Valley Forge",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CV-46",
+    "Name": "USS Iwo Jima",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CV-47",
+    "Name": "USS Phillipine Sea",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CV-48",
+    "Name": "USS Wright",
+    "MonthlyStatus": {}
+  },
+  {
+    "ID": "CV-49",
+    "Name": "USS Saipan",
+    "MonthlyStatus": {}
+  }
+]

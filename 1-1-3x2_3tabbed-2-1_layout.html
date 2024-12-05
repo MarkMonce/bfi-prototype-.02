@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>1-1-3-2-1 Layout with Tabs and Stacked Boxes</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      gap: 10px; /* Adds spacing between boxes */
+      padding: 10px;
+    }
+    .box {
+      border: 2px solid black;
+      text-align: center;
+      padding: 20px;
+      font-size: 16px;
+    }
+    .box-1 {
+      background-color: #f9f9f9;
+    }
+    .box-2 {
+      background-color: #e9e9e9;
+      gap: 0;
+      padding: 0;
+      height: 2.5vh;
+    }
+    
+    .box-3 .nested-sub-box {
+      flex: 1;
+      border: 2px dashed black;
+      background-color: #f0f0f0;
+      padding: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .box-3 .tabbed-container {
+      position: relative;
+      flex: 1;
+      border: 2px solid black;
+      background-color: #d9d9d9;
+      overflow: hidden;
+    }
+    .box-3 .tabs {
+      display: flex;
+      border-bottom: 2px solid black;
+    }
+    .box-3 .tabs button {
+      flex: 1;
+      padding: 10px;
+      cursor: pointer;
+      background-color: #e0e0e0;
+      border: none;
+      border-right: 1px solid black;
+      outline: none;
+      font-size: 16px;
+    }
+    .box-3 .tabs button:last-child {
+      border-right: none;
+    }
+    .box-3 .tabs button.active {
+      background-color: #fff;
+      font-weight: bold;
+    }
+    .box-3 .tab-content {
+      position: absolute;
+      top: 40px;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      display: none;
+      padding: 10px;
+      background-color: #f0f0f0;
+      border-top: 2px solid black;
+    }
+    .box-3 .tab-content.active {
+      display: block;
+    }
+    .box-4 {
+      display: flex;
+      gap: 10px;
+      justify-content: space-between;
+    }
+    .box-4 .sub-box {
+      flex: 1;
+      border: 2px solid black;
+      background-color: #c9c9c9;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="box box-1">Box 1</div>
+    <div class="box box-2">Box 2</div>
+    <div class="box box-3">
+      <!-- Box 3A -->
+      <div class="sub-box">
+        <div class="nested-sub-box">Box 3A-1</div>
+        <div class="nested-sub-box">Box 3A-2</div>
+      </div>
+      <!-- Box 3B -->
+      <div class="sub-box">
+        <div class="nested-sub-box">Box 3B-1</div>
+        <div class="nested-sub-box">Box 3B-2</div>
+      </div>
+      <!-- Box 3C with Tabs -->
+      <div class="tabbed-container">
+        <div class="tabs">
+          <button class="tab-button active" onclick="showTab('3c1')">Tab 1</button>
+          <button class="tab-button" onclick="showTab('3c2')">Tab 2</button>
+        </div>
+        <div class="tab-content active" id="3c1">
+          Box 3C-1 Content
+        </div>
+        <div class="tab-content" id="3c2">
+          Box 3C-2 Content
+        </div>
+      </div>
+    </div>
+    <div class="box box-4">
+      <div class="sub-box">Box 4A</div>
+      <div class="sub-box">Box 4B</div>
+    </div>
+    <div class="box box-1">Box 5</div>
+  </div>
+  <script>
+    function showTab(tabId) {
+      const tabs = document.querySelectorAll('.tab-content');
+      const buttons = document.querySelectorAll('.tab-button');
+
+      tabs.forEach(tab => {
+        tab.classList.remove('active');
+        if (tab.id === tabId) {
+          tab.classList.add('active');
+        }
+      });
+
+      buttons.forEach(button => {
+        button.classList.remove('active');
+        if (button.textContent.includes(tabId.slice(-1))) {
+          button.classList.add('active');
+        }
+      });
+    }
+  </script>
+</body>
+</html>
