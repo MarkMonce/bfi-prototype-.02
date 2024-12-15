@@ -1,0 +1,102 @@
+{
+    "Units": [
+      {
+        "UnitType": "Battleships",
+        "SubTypes": [
+          {
+            "SubType": "BB",
+            "Classes": [
+              "IOWA",
+              "SOUTH DAKOTA",
+              "NORTH CAROLINA",
+              "WEST VIRGINIA",
+              "COLORADO",
+              "TENNESSEE",
+              "NEW MEXICO",
+              "PENNSYLVANIA",
+              "NEVADA",
+              "NEW YORK",
+              "ARKANSAS"
+            ]
+          }
+        ]
+      },
+      {
+        "UnitType": "Aircraft Carriers",
+        "SubTypes": [
+          {
+            "SubType": "CVB",
+            "Classes": ["MIDWAY"]
+          },
+          {
+            "SubType": "CV",
+            "Classes": ["ESSEX", "YORKTOWN", "RANGER", "LEXINGTON", "LANGLEY"]
+          },
+          {
+            "SubType": "CVL",
+            "Classes": ["SAIPAN", "INDEPENDENCE"]
+          },
+          {
+            "SubType": "CVE",
+            "Classes": ["COMMENCEMENT BAY", "CASABLANCA", "SANGAMON", "BOGUE", "LONG ISLAND"]
+          }
+        ]
+      },
+      {
+        "UnitType": "Cruisers",
+        "SubTypes": [
+          {
+            "SubType": "CB",
+            "Classes": ["ALASKA"]
+          },
+          {
+            "SubType": "CA",
+            "Classes": [
+              "DES MOINES",
+              "OREGON CITY",
+              "BALTIMORE",
+              "WICHITA",
+              "NEW ORLEANS",
+              "PORTLAND",
+              "NORTHAMPTON",
+              "PENSACOLA"
+            ]
+          },
+          {
+            "SubType": "CL",
+            "Classes": [
+              "WORCESTER",
+              "CLEVELAND",
+              "OAKLAND",
+              "ATLANTA",
+              "BROOKLYN",
+              "OMAHA"
+            ]
+          }
+        ]
+      },
+      {
+        "UnitType": "Destroyers",
+        "SubTypes": [
+          {
+            "SubType": "DD",
+            "Classes": [
+              "SUMNER(short hull)",
+              "SUMNER (long hull)",
+              "FLETCHER",
+              "BENSON",
+              "SIMS",
+              "BENHEM",
+              "BAGLEY",
+              "GRIDLEY",
+              "MAHAN",
+              "SOMERS",
+              "PORTER",
+              "FARRAGUT"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

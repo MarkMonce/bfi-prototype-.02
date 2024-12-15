@@ -1,8 +1,5 @@
 [
   {
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CV", 
-    "Class": "LANGLEY",
     "ID": "CV-1",
     "Name": "USS Langley",
     "MonthlyStatus": {
@@ -213,9 +210,6 @@
     }
   },
   {
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CV", 
-    "Class": "LEXINGTON",
     "ID": "CV-2",
     "Name": "USS Lexington",
     "MonthlyStatus": {
@@ -430,9 +424,6 @@
     }
   },
   {
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CV", 
-    "Class": "LEXINGTON",
     "ID": "CV-3",
     "Name": "USS Saratoga",
     "MonthlyStatus": {
@@ -643,9 +634,6 @@
     }
   },
   {
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CV", 
-    "Class": "RANGER",
     "ID": "CV-4",
     "Name": "USS Ranger",
     "MonthlyStatus": {
@@ -856,9 +844,6 @@
     }
   },
   {
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CV", 
-    "Class": "YORKTOWN",
     "ID": "CV-5",
     "Name": "USS Yorktown",
     "MonthlyStatus": {
@@ -1068,10 +1053,7 @@
       }
     }
   },
-  {    
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CV", 
-    "Class": "YORKTOWN",
+  {
     "ID": "CV-6",
     "Name": "USS Enterprise",
     "MonthlyStatus": {
@@ -1282,9 +1264,6 @@
     }
   },
   {
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CV", 
-    "Class": "WASP",
     "ID": "CV-7",
     "Name": "USS Wasp",
     "MonthlyStatus": {
@@ -1495,9 +1474,6 @@
     }
   },
   {
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CV", 
-    "Class": "YORKTOWN",
     "ID": "CV-8",
     "Name": "USS Hornet",
     "MonthlyStatus": {
@@ -1708,9 +1684,6 @@
     }
   },
   {
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CV", 
-    "Class": "ESSEX",
     "ID": "CV-9",
     "Name": "USS Essex",
     "MonthlyStatus": {
@@ -1921,9 +1894,6 @@
     }
   },
   {
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CV", 
-    "Class": "ESSEX",
     "ID": "CV-10",
     "Name": "USS Yorktown",
     "MonthlyStatus": {
@@ -2134,9 +2104,6 @@
     }
   },
   {
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CV", 
-    "Class": "ESSEX",
     "ID": "CV-11",
     "Name": "USS Intrepid",
     "MonthlyStatus": {
@@ -2347,9 +2314,6 @@
     }
   },
   {
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CV", 
-    "Class": "ESSEX",
     "ID": "CV-12",
     "Name": "USS Hornet",
     "MonthlyStatus": {
@@ -2524,9 +2488,6 @@
     }
   },
   {
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CV", 
-    "Class": "ESSEX",
     "ID": "CV-13",
     "Name": "USS Franklin",
     "MonthlyStatus": {
@@ -2685,9 +2646,6 @@
     }
   },
   {
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CV", 
-    "Class": "ESSEX",
     "ID": "CV-14",
     "Name": "USS Ticonderoga",
     "MonthlyStatus": {
@@ -4024,9 +3982,6 @@
     }
   },
   {
-    "UnitType": "Aircraft Carriers", 
-    "SubType": "CVL", 
-    "Class": "INDEPENDENCE",
     "ID": "CVL-22",
     "Name": "USS Independence",
     "MonthlyStatus": {

@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>BFI Prototype 0.2</title>
   <link href="bfiprototype.css" rel="stylesheet">
+  <link href="treeview.css" rel="stylesheet">
   <link rel="stylesheet" href="date-control.css">
   <link rel="stylesheet" href="timeline_styles_portable.css">
   
@@ -20,7 +21,19 @@
     <div class="box box-2" id="navbar">Navigation Bar</div>
     <div class="box box-3" id="main">
       <div class="sub-box" id="main_section_left">
-        <div class="nested-sub-box" id="mainSection__search">Tree View Search</div>
+        <div class="nested-sub-box" id="mainSection__search">
+          <div class="treeview-parent">
+            <ul class="searchtree"></ul>
+            <input type="text" id="additionalCriteria" placeholder="Enter additional criteria, comma-separated" style="margin-top: 1rem; width: 80%;">
+            <div style="display: flex; flex-direction: column; text-align: center; margin-top: 1rem; align-items: center;">
+                <button id="searchButton" style="width: 80px;">Search</button>
+            </div>
+        </div>
+
+
+
+
+        </div>
         <div class="nested-sub-box" id="mainSection__ad1">Ad Space</div>
       </div>
       <div class="sub-box" id="main_section_center">
@@ -61,6 +74,8 @@
   <script src="date-control.js"></script>
   <script src="portable_timeline_maker.js"></script>
   <script src="unit_status_table.js"></script>
+  <script src='interactive_dynamic_treeview.js'></script>
+  <script type="module" src="interactive_dynamic_treeview.js"></script>
 
 </body>
 </html>
