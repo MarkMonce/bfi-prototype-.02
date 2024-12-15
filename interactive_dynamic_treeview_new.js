@@ -116,97 +116,32 @@ function initializeTreeView() {
     console.log("Tree view functionality initialized.");
 }
 
-// Collect checked values on button click
 
-
-
-// document.getElementById('searchButton').addEventListener('click', () => {
-//     const checkedItems = Array.from(
-//         document.querySelectorAll('.searchtree input[type="checkbox"]:checked')
-//     );
-
-//     if (checkedItems.length === 0) {
-//         alert("No criteria selected.");
-//         return;
-//     }
-
-//     const selectedCriteria = checkedItems.map(checkbox => {
-//         const label = checkbox.parentElement.textContent.trim(); // Get the label text
-//         return label;
-//     });
-
-//     alert(`Selected Criteria:\n- ${selectedCriteria.join('\n- ')}`);
-// });
-// document.getElementById('searchButton').addEventListener('click', () => {
-//     const checkedItems = Array.from(
-//         document.querySelectorAll('.searchtree input[type="checkbox"]:checked')
-//     );
-
-//     // Collect selected treeview criteria
-//     const selectedCriteria = checkedItems.map(checkbox => checkbox.parentElement.textContent.trim());
-
-//     // Collect and parse additional criteria from the input field
-//     const additionalCriteriaInput = document.getElementById('additionalCriteria').value;
-//     const additionalCriteria = additionalCriteriaInput
-//         ? additionalCriteriaInput.split(',').map(item => item.trim()).filter(item => item)
-//         : [];
-
-//     // Combine all criteria
-//     const allCriteria = [...selectedCriteria, ...additionalCriteria];
-
-//     if (allCriteria.length === 0) {
-//         alert("No criteria selected.");
-//         return;
-//     }
-
-//     alert(`Selected Criteria:\n- ${allCriteria.join('\n- ')}`);
-// });
 
 let globalCriteria = []; // Declare a global variable
 
-// document.getElementById('searchButton').addEventListener('click', () => {
-//     const checkedItems = Array.from(
-//         document.querySelectorAll('.searchtree input[type="checkbox"]:checked')
-//     );
-
-//     const selectedCriteria = checkedItems.map(checkbox => checkbox.parentElement.textContent.trim());
-//     const additionalCriteriaInput = document.getElementById('additionalCriteria').value;
-//     const additionalCriteria = additionalCriteriaInput
-//         ? additionalCriteriaInput.split(',').map(item => item.trim()).filter(item => item)
-//         : [];
-
-//     globalCriteria = [...selectedCriteria, ...additionalCriteria]; // Assign to global variable
-
-//     if (globalCriteria.length === 0) {
-//         console.log("No criteria selected.");
-//         return;
-//     }
-
-//     console.log(`Selected Criteria:\n- ${globalCriteria.join('\n- ')}`);
-
-//     // Dynamically filter and generate the table
-//     loadAndFilterTable(globalCriteria);
-// });
 document.getElementById('searchButton').addEventListener('click', () => {
     const checkedItems = Array.from(
         document.querySelectorAll('.searchtree input[type="checkbox"]:checked')
     );
 
-    const selectedCriteria = checkedItems.map(checkbox => checkbox.value);
-
+    const selectedCriteria = checkedItems.map(checkbox => checkbox.parentElement.textContent.trim());
     const additionalCriteriaInput = document.getElementById('additionalCriteria').value;
     const additionalCriteria = additionalCriteriaInput
         ? additionalCriteriaInput.split(',').map(item => item.trim()).filter(item => item)
         : [];
 
-    // Combine criteria
-    const allCriteria = [...selectedCriteria, ...additionalCriteria];
-    window.globalCriteria = allCriteria;
-    console.log("interactive_dynamic_treeview.js: Criteria updated", allCriteria);
+    globalCriteria = [...selectedCriteria, ...additionalCriteria]; // Assign to global variable
 
-    // Dispatch criteriaChanged event
-    const event = new Event('criteriaChanged');
-    window.dispatchEvent(event);
+    if (globalCriteria.length === 0) {
+        console.log("No criteria selected.");
+        return;
+    }
 
-    console.log("interactive_dynamic_treeview.js: Criteria updated", allCriteria);
+    console.log(`Selected Criteria:\n- ${globalCriteria.join('\n- ')}`);
+
+    window.dispatchEvent(new Event("criteriaChanged"));// Dispatch a custom event
+
+    // Dynamically filter and generate the table
+    loadAndFilterTable(globalCriteria);
 });
