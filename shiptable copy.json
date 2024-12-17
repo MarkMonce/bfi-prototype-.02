@@ -207,7 +207,15 @@
         "code": 8,
         "details": ""
       }
-    }
+    },
+    "Events": [
+      {
+        "date": "2-27-1942",
+        "location": "Java Sea",
+        "details": "Sunk by Air Attack while ferrying aircraft to Tjilatjap, Java",
+        "citation": "https://en.wikipedia.org/wiki/USS_Langley_(CV-1)"
+      }
+    ]
   },
   {
     "ID": "CV-2",

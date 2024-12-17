@@ -247,6 +247,20 @@ p {
   display: block; /* Ensure proper layout */
 }
 
+/* #mainSection__eventsAndDetails {
+  font-size: xx-small !important;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  text-align: left;
+  width: 24vh;
+  height: 78vh;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow-y: auto;
+} */
 
 
 
